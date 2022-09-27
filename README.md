@@ -16,7 +16,7 @@
   </a> 
    
   <a href="https://www.webcheats.com.br/profile/4829267-mpdownsv2/" target="_blank">
-      <img src="https://www.webcheats.com.br/uploads/monthly_2022_03/icon.png" style="max-height: 28px;" target="_blank">
+      <img src="https://www.webcheats.com.br/uploads/monthly_2022_03/icon.png" height="28px" target="_blank">
   </a> 
     
 </div>
