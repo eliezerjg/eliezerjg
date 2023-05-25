@@ -81,9 +81,7 @@
      <img src="https://www.gocache.com.br/wp-content/uploads/2020/10/cloudflare-como-funciona-1280x720.jpg" height="36px" target="_blank" alt="Cloudflare Web Application Firewall">
   </a> 
   
-  
-   
-    <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
+  <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
      <img src="https://www.vhv.rs/dpng/d/499-4996069_postman-logo-circle-hd-png-download.png" height="36px" target="_blank" alt="Telerik Fiddler HTTP Sniffing Tool">
   </a> 
 
