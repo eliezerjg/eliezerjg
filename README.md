@@ -39,7 +39,7 @@ Currently working with Fullstack (Web and Mobile) Development.
 
   
   
-  ## Some Technologies i have worked with
+  ## Some Technologies i have worked with in the past few years
   
   <hr/>
  
