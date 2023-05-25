@@ -29,9 +29,8 @@
 <div>  
 
 
-  
   <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://e7.pngegg.com/pngimages/666/815/png-clipart-dart-google-chrome-web-application-flutter-darts-blue-angle.png" height="28px" target="_blank" alt="flutter">
+     <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg" height="28px" target="_blank" alt="flutter">
   </a> 
   
   <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
