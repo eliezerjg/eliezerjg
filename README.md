@@ -30,7 +30,7 @@
 
   
    <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" height="36px" target="_blank" alt="Git versioning">
+     <img src="https://fofxacademy.com/wp-content/uploads/2020/01/install-git-for-multiple-users.png" height="36px" target="_blank" alt="Git versioning">
   </a> 
 
   <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
