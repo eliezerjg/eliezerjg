@@ -30,7 +30,7 @@
 
 
   <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg" height="36px" target="_blank" alt="flutter">
+     <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg" height="36px" target="_blank" alt="dart">
   </a> 
   
   <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
@@ -46,6 +46,11 @@
   <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" height="36px" target="_blank" alt="Spring Framework">
   </a> 
+  
+  <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" height="36px" target="_blank" alt="HTML5 AND CSS">
+  </a> 
+  
   
   
    
