@@ -21,9 +21,11 @@
     
 </div>
 
+  <div>
+    ## Github Commit Graphic<hr/>
   ![Snake animation](https://github.com/eliezerjg/eliezerjg/blob/output/github-contribution-grid-snake.svg)
   
-  
+  </div>
   ## Some Technologies i have worked with<hr/>
  
 <div >  
