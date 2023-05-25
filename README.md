@@ -63,7 +63,9 @@
      <img src="https://www.ais.com/wp-content/uploads/2014/12/javascipt.png" height="36px" target="_blank" alt="Javascript / EcmaScript6">
   </a> 
   
-  
+     <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
+     <img src="[https://www.ais.com/wp-content/uploads/2014/12/javascipt.png](https://e7.pngegg.com/pngimages/56/776/png-clipart-angularjs-javascript-framework-web-application-others-angle-emblem.png)" height="36px" target="_blank" alt="Angular JS">
+  </a> 
   
    <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
      <img src="https://e7.pngegg.com/pngimages/569/275/png-clipart-postgresql-relational-database-management-system-sqlite-bitcoin-miscellaneous-text.png" height="36px" target="_blank" alt="PostgreSQL">
