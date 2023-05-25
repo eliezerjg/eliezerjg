@@ -83,7 +83,7 @@
   
   
      <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://logos-download.com/wp-content/uploads/2020/06/Postman_Logo.png" height="36px" target="_blank" alt="Postman">
+     <img src="https://ww1.prweb.com/prfiles/2018/02/26/15251774/200x200_360%20logo.png" height="36px" target="_blank" alt="Postman">
   </a> 
   
 
