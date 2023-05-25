@@ -78,7 +78,7 @@
   
   
     <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://www.clipartmax.com/png/middle/146-1469403_cloudflare-logo-cloudflare-logo.png" height="36px" target="_blank" alt="Cpanel">
+     <img src="https://w7.pngwing.com/pngs/23/186/png-transparent-cloudflare-content-delivery-network-glassdoor-business-cloudbleed-others-service-orange-logo.png" height="36px" target="_blank" alt="Cloudflare Web Application Firewall">
   </a> 
    
   
