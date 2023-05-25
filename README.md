@@ -81,6 +81,10 @@ Currently working with Fullstack (Web and Mobile) Development.
 <a href="https://angular.io/" target="_blank">
   <img src="https://w7.pngwing.com/pngs/16/157/png-transparent-angularjs-spring-framework-web-application-others-angle-rectangle-logo.png" height="36px" target="_blank" alt="Angular JS">
 </a>
+  
+<a href="https://angular.io/" target="_blank">
+  <img src="https://www.pngarts.com/files/6/PHP-Elephant-Logo-PNG-Photo.png" height="36px" target="_blank" alt="PHP">
+</a>
 
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://e7.pngegg.com/pngimages/569/275/png-clipart-postgresql-relational-database-management-system-sqlite-bitcoin-miscellaneous-text.png" height="36px" target="_blank" alt="PostgreSQL">
