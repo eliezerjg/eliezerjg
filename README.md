@@ -22,6 +22,10 @@
   <a href="mailto:jueliezermdp@gmail.com" target="_blank">
       <img src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png" height="28px" target="_blank">
   </a> 
+  
+    <a href="https://api.whatsapp.com/send/?phone=5551993263563&text&type=phone_number&app_absent=0" target="_blank">
+      <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-.png" height="28px" target="_blank">
+  </a> 
     
 </div>
 
