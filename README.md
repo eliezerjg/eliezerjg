@@ -8,7 +8,7 @@
 
 
   
-## FOLLOW ME ON
+## FOLLOW OR CONTACT ME ON
  
 <div>  
    <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
