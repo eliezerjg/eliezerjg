@@ -63,7 +63,7 @@
      <img src="https://www.ais.com/wp-content/uploads/2014/12/javascipt.png" height="36px" target="_blank" alt="Javascript / EcmaScript6">
   </a> 
   
-     <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
+   <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
      <img src="https://w7.pngwing.com/pngs/16/157/png-transparent-angularjs-spring-framework-web-application-others-angle-rectangle-logo.png" height="36px" target="_blank" alt="Angular JS">
   </a> 
   
