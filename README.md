@@ -26,7 +26,7 @@
   
   ## Technologies i have some experience
  
-<div>  
+<div style="spacing: 25px;">  
 
 
   <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
