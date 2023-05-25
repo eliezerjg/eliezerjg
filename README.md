@@ -8,6 +8,7 @@ Currently working with Fullstack (Web and Mobile) Development.
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=eliezerjg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerjg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  ![](https://komarev.com/ghpvc/?username=eliezerjg)
 
 
 
