@@ -109,6 +109,14 @@ Currently working with Fullstack (Web and Mobile) Development.
 <a href="https://www.telerik.com/fiddler" target="_blank">
   <img src="https://feedback.telerik.com/content/images/logo.png" height="36px" target="_blank" alt="Telerik Fiddler HTTP Sniffing Tool">
 </a>
+  
+<a href="https://linux.org" target="_blank">
+  <img src="https://cdn.freebiesupply.com/images/thumbs/2x/linux-logo.png" height="36px" target="_blank" alt="Linux">
+</a>
+  
+<a href="https://www.microsoft.com/pt-br/windows/" target="_blank">
+  <img src="https://img.freepik.com/icones-gratis/microsoft_318-566086.jpg" height="36px" target="_blank" alt="Windows">
+</a>
 
  
    
