@@ -24,7 +24,7 @@
   ![Snake animation](https://github.com/eliezerjg/eliezerjg/blob/output/github-contribution-grid-snake.svg)
   
   
-  ## Technologies i have some experience
+  ## Some Technologies i have worked with:
  
 <div >  
 
