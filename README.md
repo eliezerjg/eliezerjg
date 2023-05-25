@@ -32,9 +32,13 @@
    <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
      <img src="https://fofxacademy.com/wp-content/uploads/2020/01/install-git-for-multiple-users.png" height="36px" target="_blank" alt="Git versioning">
   </a> 
+  
+  <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
+     <img src="https://fofxacademy.com/wp-content/uploads/2020/01/install-git-for-multiple-users.png" height="36px" target="_blank" alt="SVN versioning">
+  </a> 
 
   <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg" height="36px" target="_blank" alt="Dart">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Subversion_logo.svg/1200px-Subversion_logo.svg.png" height="36px" target="_blank" alt="Dart">
   </a> 
   
   <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
