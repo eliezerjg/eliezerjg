@@ -30,11 +30,11 @@
 
 
   <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg" height="36px" target="_blank" alt="dart">
+     <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg" height="36px" target="_blank" alt="Dart">
   </a> 
   
   <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://storage.googleapis.com/cms-storage-bucket/683514c5660dbe52f5ba.png" height="36px" target="_blank" alt="flutter">
+     <img src="https://storage.googleapis.com/cms-storage-bucket/683514c5660dbe52f5ba.png" height="36px" target="_blank" alt="Flutter">
   </a> 
   
    <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
