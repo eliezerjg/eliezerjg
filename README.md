@@ -82,10 +82,10 @@
   </a> 
   
   
-     <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://ww1.prweb.com/prfiles/2018/02/26/15251774/200x200_360%20logo.png" height="36px" target="_blank" alt="Postman">
+   
+    <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
+     <img src="https://www.vhv.rs/dpng/d/499-4996069_postman-logo-circle-hd-png-download.png" height="36px" target="_blank" alt="Telerik Fiddler HTTP Sniffing Tool">
   </a> 
-  
 
  
    
