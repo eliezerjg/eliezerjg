@@ -30,21 +30,21 @@
 
 
   <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg" height="28px" target="_blank" alt="flutter">
+     <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg" height="36px" target="_blank" alt="flutter">
   </a> 
   
   <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://storage.googleapis.com/cms-storage-bucket/683514c5660dbe52f5ba.png" height="28px" target="_blank" alt="flutter">
+     <img src="https://storage.googleapis.com/cms-storage-bucket/683514c5660dbe52f5ba.png" height="36px" target="_blank" alt="flutter">
   </a> 
   
    <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://logospng.org/download/java/logo-java-512.png" height="28px" target="_blank" alt="Java">
+     <img src="https://logospng.org/download/java/logo-java-512.png" height="36px" target="_blank" alt="Java">
   </a> 
   
   
   
   <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" height="28px" target="_blank" alt="Spring Framework">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" height="36px" target="_blank" alt="Spring Framework">
   </a> 
   
   
