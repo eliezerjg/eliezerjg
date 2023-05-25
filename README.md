@@ -29,11 +29,7 @@
 <div>  
 
     <a href="#" target="_blank">
-       <img  style="
-                    max-width: 60px;
-      max-height: 45px;
-                    
-                    " class="logo-techs" alt="dart" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/2560px-Dart_programming_language_logo.svg.png" target="_blank">
+       <img alt="dart" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/2560px-Dart_programming_language_logo.svg.png" height="28px"  width="80px" target="_blank">
     </a> 
 
   
