@@ -76,8 +76,12 @@
      <img src="https://www.clipartmax.com/png/middle/220-2205270_since-1996-cpanel-inc-has-been-delivering-the-web-cpanel-logo-vector.png" height="36px" target="_blank" alt="Cpanel">
   </a> 
   
-
+     <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
+     <img src="https://www.clipartmax.com/png/middle/146-1469403_cloudflare-logo-cloudflare-logo.png" height="36px" target="_blank" alt="Cloudflare WAF">
+  </a> 
   
+
+ 
    
 
     
