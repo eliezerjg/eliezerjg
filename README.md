@@ -31,6 +31,10 @@
 
   
   <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/2560px-Dart_programming_language_logo.svg.png" height="28px" target="_blank" alt="flutter">
+  </a> 
+  
+  <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
      <img src="https://storage.googleapis.com/cms-storage-bucket/683514c5660dbe52f5ba.png" height="28px" target="_blank" alt="flutter">
   </a> 
   
