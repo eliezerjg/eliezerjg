@@ -39,7 +39,7 @@
   
     
   <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://m.media-amazon.com/images/I/51z07YgHRBL.jpg" height="36px" target="_blank" alt="Dart Programming language">
+     <img src="https://image.pngaaa.com/400/23400-middle.png" height="36px" target="_blank" alt="Dart Programming language">
   </a> 
   
   <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
