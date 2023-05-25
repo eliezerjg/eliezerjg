@@ -38,7 +38,7 @@
   </a> 
   
    <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://logospng.org/download/java/logo-java-512.png" height="36px" target="_blank" alt="Java">
+     <img src="https://w7.pngwing.com/pngs/811/186/png-transparent-java-programming-programming-language-computer-programming-others-miscellaneous-text-logo.png" height="36px" target="_blank" alt="Java">
   </a> 
   
   
