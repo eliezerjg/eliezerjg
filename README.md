@@ -39,7 +39,7 @@
   
     
   <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://datafloq.com/wp-content/uploads/2021/12/blog_pictures2Fwhy-google-choose-dart-not-any-other-language.jpg" height="36px" target="_blank" alt="Dart Programming language">
+     <img src="https://m.media-amazon.com/images/I/51z07YgHRBL.jpg" height="36px" target="_blank" alt="Dart Programming language">
   </a> 
   
   <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
