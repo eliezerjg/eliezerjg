@@ -70,6 +70,10 @@
    <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
      <img src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" height="36px" target="_blank" alt="PostgreSQL">
   </a> 
+  
+    <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
+     <img src="https://www.dbacorp.com.br/wp-content/uploads/2017/07/microsoft-sql-server-logo.png" height="36px" target="_blank" alt="SQL Server">
+  </a> 
 
    <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
      <img src="https://www.pngall.com/wp-content/uploads/11/CPanel-PNG-Pic.png" height="36px" target="_blank" alt="Cpanel">
