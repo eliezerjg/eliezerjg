@@ -82,7 +82,7 @@ Currently working with Fullstack (Web and Mobile) Development.
   <img src="https://w7.pngwing.com/pngs/16/157/png-transparent-angularjs-spring-framework-web-application-others-angle-rectangle-logo.png" height="36px" target="_blank" alt="Angular JS">
 </a>
   
-<a href="https://angular.io/" target="_blank">
+<a href="https://php.net/" target="_blank">
   <img src="https://www.pngarts.com/files/6/PHP-Elephant-Logo-PNG-Photo.png" height="36px" target="_blank" alt="PHP">
 </a>
 
