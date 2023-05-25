@@ -30,7 +30,7 @@
 
 
   <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" target="_blank">
+     <img src="https://storage.googleapis.com/cms-storage-bucket/683514c5660dbe52f5ba.png" target="_blank">
   </a> 
    
 
