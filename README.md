@@ -78,7 +78,7 @@
   
   
    <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://feedback.telerik.com/content/images/logo.png" height="36px" target="_blank" alt="Telerik Fiddler HTTP Sniffing Tool">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png" height="36px" target="_blank" alt="Cloudflare Web Application Firewall">
   </a> 
   
 
