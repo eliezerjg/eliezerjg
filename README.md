@@ -70,9 +70,7 @@
      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" height="36px" target="_blank" alt="Postman">
   </a> 
   
-   <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://handwiki.org/wiki/images/5/5a/Progress-Telerik-Fiddler-Logo.png" height="36px" target="_blank" alt="Telerik HTTP Sniffer Debug Tools">
-  </a> 
+
   
   
 
