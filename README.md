@@ -66,10 +66,6 @@
      <img src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" height="36px" target="_blank" alt="PostgreSQL">
   </a> 
   
-    <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" height="36px" target="_blank" alt="Postman">
-  </a> 
-  
 
   
   
