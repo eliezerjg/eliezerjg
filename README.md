@@ -30,7 +30,9 @@
 
   
   
-  ## Some Technologies i have worked with<hr/>
+  ## Some Technologies i have worked with
+  
+  <hr/>
  
 <div >  
 
