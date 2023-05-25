@@ -24,7 +24,7 @@
   </a> 
   
   <a href="https://api.whatsapp.com/send/?phone=5551993263563&text&type=phone_number&app_absent=0" target="_blank">
-      <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-.png" height="28px" target="_blank">
+      <img src="https://pngimg.com/d/whatsapp_PNG1.png" height="28px" target="_blank">
   </a> 
     
 </div>
