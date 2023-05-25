@@ -28,7 +28,7 @@
  
 <div >  
 
- <hr/> <p> Versioning Tools: </p><hr/>
+ <BR>Versioning Tools
    <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
      <img src="https://fofxacademy.com/wp-content/uploads/2020/01/install-git-for-multiple-users.png" height="36px" target="_blank" alt="Git versioning">
   </a> 
@@ -37,7 +37,7 @@
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Subversion_logo.svg/1200px-Subversion_logo.svg.png" height="36px" target="_blank" alt="SVN Versioning">
   </a> 
   
-   <hr/> <p> Languages and Frameworks: </p><hr/>
+  <BR>Languages and Frameworks:
     
   <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
      <img src="https://image.pngaaa.com/400/23400-middle.png" height="36px" target="_blank" alt="Dart Programming language">
@@ -77,7 +77,7 @@
      <img src="https://www.dbacorp.com.br/wp-content/uploads/2017/07/microsoft-sql-server-logo.png" height="36px" target="_blank" alt="SQL Server">
   </a> 
   
-   <hr/><p> Infracstruture: </p><hr/>
+  <BR>Infracstruture:
 
    <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
      <img src="https://www.pngall.com/wp-content/uploads/11/CPanel-PNG-Pic.png" height="36px" target="_blank" alt="Cpanel">
@@ -88,7 +88,7 @@
      <img src="https://www.gocache.com.br/wp-content/uploads/2020/10/cloudflare-como-funciona-1280x720.jpg" height="36px" target="_blank" alt="Cloudflare Web Application Firewall">
   </a> 
   
-   <hr/><p> Debugging Tools: </p><hr/>
+  <BR>Debugging Tools:
   
   <a  href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
      <img src="https://www.vhv.rs/dpng/d/499-4996069_postman-logo-circle-hd-png-download.png" height="36px" target="_blank" alt="Post HTTP Debug Tool">
