@@ -12,19 +12,19 @@
  <hr/>
 <div>  
    <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"  height="36px" >
   </a> 
    
   <a href="https://www.webcheats.com.br/profile/4829267-mpdownsv2/" target="_blank">
-      <img src="https://www.webcheats.com.br/uploads/monthly_2022_03/icon.png" height="28px" target="_blank">
+      <img src="https://www.webcheats.com.br/uploads/monthly_2022_03/icon.png" height="36px" target="_blank">
   </a> 
   
   <a href="mailto:jueliezermdp@gmail.com" target="_blank">
-      <img src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png" height="28px" target="_blank">
+      <img src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png"  height="36px"  target="_blank">
   </a> 
   
   <a href="https://api.whatsapp.com/send/?phone=5551993263563&text&type=phone_number&app_absent=0" target="_blank">
-      <img src="https://logospng.org/download/whatsapp/logo-whatsapp-colorido-com-nome-1024.png" height="28px" target="_blank">
+      <img src="https://logospng.org/download/whatsapp/logo-whatsapp-colorido-com-nome-1024.png"  height="36px"  target="_blank">
   </a> 
     
 </div>
