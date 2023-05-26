@@ -17,16 +17,16 @@ Currently working with Fullstack (Web and Mobile) Development.
  <hr/>
 <div>  
    <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"  height="36px" >
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"  height="36px" alt="Linkedin">
   </a> 
    
   
   <a href="mailto:jueliezermdp@gmail.com" target="_blank">
-      <img src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png"  height="36px"  target="_blank">
+      <img src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png"  height="36px"  target="_blank" alt="E-Mail">
   </a> 
   
   <a href="https://api.whatsapp.com/send/?phone=5551993263563&text&type=phone_number&app_absent=0" target="_blank">
-      <img src="https://logospng.org/download/whatsapp/logo-whatsapp-colorido-com-nome-1024.png"  height="36px"  target="_blank">
+      <img src="https://logospng.org/download/whatsapp/logo-whatsapp-colorido-com-nome-1024.png"  height="36px"  target="_blank" alt="Whatsapp">
   </a> 
     
 </div>
