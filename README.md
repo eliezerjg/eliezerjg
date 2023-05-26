@@ -5,7 +5,7 @@ Currently working with Fullstack (Web and Mobile) Development.
 ## Dashboard
 <div align="center">
  
-  <img height="140em" src="https://orlando.hostns.io:2083/cpsess0302433285/viewer/home%2fgamecmsc%2fsalesjump.com.br%2ffounder/github_stats.png"/>
+ <img height="140em" src="https://salesjump.com.br/founder/github_stats.png"/>
 </div>
 
 
