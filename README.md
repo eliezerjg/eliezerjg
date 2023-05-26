@@ -5,7 +5,7 @@ Currently working with Fullstack (Web and Mobile) Development.
 ## Dashboard
 <div align="center">
  
- <img height="140em" src="https://salesjump.com.br/founder/githubxstatus.png"/>
+ <img height="140em" src="https://salesjump.com.br/founder/github_status.png"/>
 </div>
 
 
