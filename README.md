@@ -4,7 +4,7 @@ Currently working with Fullstack (Web and Mobile) Development.
 
 ## Dashboard
 <div align="center">
-  <a href="https://github.com/eliezerjg">
+ 
   <img height="140em" src="https://salesjump.com.br/founder/githubstatus.php"/>
 </div>
 
