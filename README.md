@@ -5,7 +5,7 @@ Currently working with Fullstack (Web and Mobile) Development.
 ## Dashboard
 <div align="center">
   <a href="https://github.com/eliezerjg">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerjg&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://salesjump.com.br/founder/githubstatus.php"/>
 </div>
 
 
