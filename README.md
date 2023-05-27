@@ -4,7 +4,7 @@ Currently working with Fullstack (Web and Mobile) Development.
 
 ## Dashboard
 <div>
-   <img height="140em" src="https://salesjump.com.br/founder/githubstats.png"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=eliezerjg&show_icons=true&theme=radical"/>
 
 </div>
 
