@@ -5,7 +5,7 @@ Currently working with Fullstack (Web and Mobile) Development.
 ## Dashboard
 <div>
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=eliezerjg&rank_icon=github&theme=radical"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerjg&hide_progress=true&theme=radical"/>
+   <img height="140em" style="width: 80% !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerjg&hide_progress=true&theme=radical"/>
    
 </div>
 
