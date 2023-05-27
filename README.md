@@ -25,9 +25,6 @@ Currently working with Fullstack (Web and Mobile) Development.
       <img src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png"  height="36px"  target="_blank" alt="E-Mail">
   </a> 
   
-  <a href="https://api.whatsapp.com/send/?phone=5551993263563&text&type=phone_number&app_absent=0" target="_blank">
-      <img src="https://logospng.org/download/whatsapp/logo-whatsapp-colorido-com-nome-1024.png"  height="36px"  target="_blank" alt="Whatsapp">
-  </a> 
     
 </div>
 
