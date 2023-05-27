@@ -7,9 +7,9 @@ Currently working with Fullstack (Web and Mobile) Development.
   
       <img height="140em" src="https://github-readme-stats.vercel.app/api?username=eliezerjg&rank_icon=github&theme=radical"/>
    
-   <div align="right">
+  
        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerjg&hide_progress=true&theme=radical"/>
-   </div>
+   
 </div>
 
 
