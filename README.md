@@ -4,9 +4,9 @@ Currently working with Fullstack (Web and Mobile) Development.
 
 ## Dashboard
 <div>
-      <img  style="width: 30% !important; height: 120px !important;" src="https://github-readme-stats.vercel.app/api?username=eliezerjg&rank_icon=github&theme=radical"/>
-      <img  style="width: 30% !important; height: 120px !important;" src="https://github-readme-streak-stats.herokuapp.com/?user=eliezerjg&hide_border=false&theme=radical"/>
-      <img  style="width: 30% !important; height: 120px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerjg&hide_progress=true&theme=radical"/>
+      <img  style="width: 30% !important; height: 110px !important;" src="https://github-readme-stats.vercel.app/api?username=eliezerjg&rank_icon=github&theme=radical"/>
+      <img  style="width: 30% !important; height: 110px !important;" src="https://github-readme-streak-stats.herokuapp.com/?user=eliezerjg&hide_border=false&theme=radical"/>
+      <img  style="width: 30% !important; height: 110px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerjg&hide_progress=true&theme=radical"/>
       
 </div>
 
