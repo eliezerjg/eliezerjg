@@ -1,5 +1,5 @@
 ## About
-Currently working with Fullstack (Web and Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portifolio</a>.
+Currently working with Fullstack (Web and Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
 
 
 ## Dashboard
