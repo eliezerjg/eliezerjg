@@ -1,5 +1,5 @@
 ## About
-24 Year's Old, Founder and Principal Software Engineer at <a href="https://salesjump.com.br/" target="_blank"> SalesJump</a>, currently working with Fullstack (Web and Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
+24 Year's Old, founder and principal Software Engineer at <a href="https://salesjump.com.br/" target="_blank"> SalesJump</a>, currently working with Fullstack (Web and Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
 
 
 ## Dashboard
