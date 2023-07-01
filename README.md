@@ -37,7 +37,7 @@
 
   
   
-  ## Some Technologies i have worked with in the past few years
+  ## Some Technologies i'm working with 
   
   <hr/>
  
