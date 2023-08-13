@@ -22,7 +22,7 @@
    
   
   <a href="mailto:jueliezermdp@gmail.com" target="_blank">
-      <img src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png"  height="36px"  target="_blank" alt="E-Mail">
+      <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"  height="36px"  target="_blank" alt="E-Mail">
   </a> 
 
   <a href="https://discord.gg/NKUsjKS8Wh" target="_blank">
