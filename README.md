@@ -1,5 +1,5 @@
 ## About
-24 Year's Old, Principal Software Engineer at this projects: 
+24 Year's Old, Principal Full Stack Engineer at this projects: 
 <a href="https://salesjump.com.br/" target="_blank"> SalesJump Capturing Leads Platform</a> & 
 <a href="https://gamecms.com.br/" target="_blank"> GameCMS Automation Platform for Indie Game Servers.</a>
 &nbsp; Projects
