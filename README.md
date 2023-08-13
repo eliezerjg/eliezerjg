@@ -33,7 +33,7 @@ currently working with Fullstack (Java Backend,Angular Web and Flutter Mobile) D
 </div>
 
   
-  ## Some Technologies i'm working with 
+  ## Have some experience with
   
  
 <div >  
