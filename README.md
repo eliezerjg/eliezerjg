@@ -6,15 +6,12 @@
 currently working with Fullstack (Java Backend,Angular Web and Flutter Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
 
 
-## Dashboard
+## Dashboard (What i'm doing here on Github)
 <div align="center">
       <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api?username=eliezerjg&rank_icon=github&theme=radical&hide_border=true"/>
       <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-streak-stats.herokuapp.com/?user=eliezerjg&theme=radical&hide_border=true"/>
        <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerjg&hide_progress=true&theme=radical&hide_border=true"/>
 </div>
-
-
-
 
   
 ## Follow or Contact me on:
