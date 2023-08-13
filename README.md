@@ -1,9 +1,9 @@
 ## About
 24 Year's Old, Principal Full Stack Engineer at this projects: 
 <a href="https://salesjump.com.br/" target="_blank"> SalesJump - Capturing Leads Platform</a> & 
-<a href="https://gamecms.com.br/" target="_blank"> GameCMS -  Automation Platform for Indie Game Servers.</a>
-&nbsp; Projects
-currently working with Fullstack (Java Backend,Angular Web and Flutter Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
+<a href="https://gamecms.com.br/" target="_blank"> GameCMS -  Automation Platform for Indie Game Servers</a>
+&nbsp; Projects.
+Currently working with Fullstack (Java Backend,Angular Web and Flutter Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
 
 
 ## Dashboard (What i'm doing here on Github)
