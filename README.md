@@ -13,7 +13,7 @@
 
 
   
-## Follow or contact me on
+## Follow or Contact me on:
  <hr/>
 <div>  
    <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
@@ -23,6 +23,10 @@
   
   <a href="mailto:jueliezermdp@gmail.com" target="_blank">
       <img src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png"  height="36px"  target="_blank" alt="E-Mail">
+  </a> 
+
+  <a href="https://discord.gg/NKUsjKS8Wh" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"  height="36px"  target="_blank" alt="Discord">
   </a> 
   
     
