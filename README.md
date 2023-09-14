@@ -1,5 +1,5 @@
 ## About
-24 Year's Old, Currently working with Fullstack (Java Backend,Angular Web and Flutter Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
+Currently working with Fullstack (Java Backend,Angular Web and Flutter Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
 
 
 ## Dashboard (What i'm doing here on Github)
