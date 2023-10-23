@@ -1,8 +1,8 @@
 ## About
 Currently working with Fullstack (Java Backend,Angular Web and Flutter Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
 
-##Cool
-Currently building a entire platform to Indie Games Sales their products
+## Cool
+Currently building a entire platform to Indie Games Sales their products, demo user page: <a href="https://eliezerjg.github.io/](https://infinitedestiny.gamecms.com.br/" target="_blank"> Platform.</a>. 
 
 
 ## Dashboard (What i'm doing here on Github)
