@@ -9,6 +9,7 @@ Currently working with Fullstack (Java Backend,Angular Web and Flutter Mobile) D
 ## Cool
 Currently building a entire platform to Indie Games Sales their products, demo user page: <a href="https://infinitedestiny.gamecms.com.br/" target="_blank"> Platform</a>.
 
+<BR>
 
 ## Dashboard (What i'm doing here on Github)
 <div align="left">
