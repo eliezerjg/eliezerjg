@@ -1,4 +1,6 @@
-<p style="text-align: center;"> Welcome !</p>
+<p align="center" style="font-weight: bold;">
+Welcome
+</p>
 
 <hr/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" />
