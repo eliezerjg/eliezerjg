@@ -1,4 +1,4 @@
-<p align="center" style="font-weight: bold;">
+<p align="center" style="font-weight: bold; text-size: 45px;">
 Welcome
 </p>
 
