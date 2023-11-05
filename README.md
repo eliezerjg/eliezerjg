@@ -1,6 +1,6 @@
 ## Welcome
 Here you will found my personal projects, but that doesnt means this is all my skills, most of projects that i'm currently working are closed source project,
-So if you need to know something, feel free to ask in my socials.
+So if you need to know something, feel free to ask in my <a href="#socials">Socials</a>.
 
 
 ## About
@@ -19,7 +19,7 @@ Currently building a entire platform to Indie Games Sales their products, demo u
 
   
 ## Follow or Contact me on:
-<div>  
+<div id="socials">  
    <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"  height="36px" alt="Linkedin">
   </a> 
