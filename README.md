@@ -1,5 +1,5 @@
 <p align="center" class="heading-link">
-      <strong>Welcome</strong>
+      <strong style="text-size: 2em;">Welcome</strong>
 </p>
 
 <hr/>
