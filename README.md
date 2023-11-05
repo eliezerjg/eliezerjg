@@ -1,6 +1,6 @@
 ## Welcome
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" />
+Here you will found my personal projects, but that doesnt means this is all my skills, most of projects that i'm currently working are closed source project,<BR>
+So if you need to know something, feel free to ask in my socials.
 
 
 ## About
