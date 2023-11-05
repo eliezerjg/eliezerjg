@@ -10,7 +10,7 @@ Currently working with Fullstack (Java Backend,Angular Web and Flutter Mobile) D
 Currently building a entire platform to Indie Games Sales their products, demo user page: <a href="https://infinitedestiny.gamecms.com.br/" target="_blank"> Platform</a>.
 
 
-## Dashboard (What i'm doing here on Github)
+## Dashboard (What i'm doing here on Github - not includes commits in closed source projects)
 <div align="center">
       <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api?username=eliezerjg&rank_icon=github&theme=radical&hide_border=true"/>
       <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-streak-stats.herokuapp.com/?user=eliezerjg&theme=radical&hide_border=true"/>
