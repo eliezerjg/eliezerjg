@@ -4,10 +4,10 @@ So if you need to know something, feel free to ask in my <a href="#socials">Soci
 
 
 ## About
-Currently working with Fullstack (Java Backend,Angular Web and Flutter Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
+Currently working Fulltime with Fullstack (Java Backend,Angular Web and Flutter Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
 
 ## Cool
-Currently building a entire platform to Indie Games Sales their products, demo user page: <a href="https://infinitedestiny.gamecms.com.br/" target="_blank"> Platform</a>.
+Currently working in my freetime building a entire platform to Indie Games Sales their products, demo user page: <a href="https://infinitedestiny.gamecms.com.br/" target="_blank"> Platform</a>.
 
 <BR>
 
