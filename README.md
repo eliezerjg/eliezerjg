@@ -1,4 +1,4 @@
-<p align="center" >
+<p align="center" class="heading-link">
       <strong>Welcome</strong>
 </p>
 
