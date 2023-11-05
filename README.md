@@ -1,5 +1,5 @@
-<p align="center" style="font-weight: bold; size: 45px;">
-Welcome
+<p align="center" >
+      <strong>Welcome</strong>
 </p>
 
 <hr/>
