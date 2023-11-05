@@ -1,6 +1,4 @@
-<p align="center" class="heading-link">
-      <strong style="text-size: 2em;">Welcome</strong>
-</p>
+## Welcome
 
 <hr/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" />
