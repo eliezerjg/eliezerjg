@@ -17,7 +17,7 @@ Currently building a entire platform to Indie Games Sales their products, demo u
        <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerjg&hide_progress=true&theme=radical&hide_border=true"/>
 </div>
 <BR>
-<p align="right" style="text-decoration: underline">PS: This stats only includes open source projects.</p>
+<p align="right">PS: This stats only includes open source projects.</p>
 
   
 ## Follow or Contact me on:
