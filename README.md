@@ -1,5 +1,5 @@
 ## Welcome
-Here you will found my personal projects, but that doesnt means this is all my skills, most of projects that i'm currently working are closed source project,<BR>
+Here you will found my personal projects, but that doesnt means this is all my skills, most of projects that i'm currently working are closed source project,
 So if you need to know something, feel free to ask in my socials.
 
 
