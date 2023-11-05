@@ -21,7 +21,7 @@ Currently working in my freetime building a entire platform to Indie Games Sales
 <p align="right">PS: This stats only includes open source projects.</p>
 
   
-## Follow or Contact me on:
+## Follow or Contact me on
 <div id="socials">  
    <a href="https://www.linkedin.com/in/eliezer-garcia-7a9729177" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"  height="36px" alt="Linkedin">
