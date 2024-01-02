@@ -7,7 +7,7 @@ So if you need to know something, feel free to ask in my <a href="#socials">Soci
 Currently working Fulltime with Fullstack (Java Backend,Angular Web and Flutter Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
 
 ## Cool
-Currently working in my free time building a entire platform to Indie Games Sales their products, demo user page: <a href="https://infinitedestiny.gamecms.com.br/" target="_blank"> Platform</a>.
+Currently working in my free time building a entire platform to Indie Games Sales their products, demo user page: <a href="https://gamecms.com.br/" target="_blank"> Platform</a>.
 
 <BR>
 
