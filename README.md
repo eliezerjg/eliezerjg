@@ -37,7 +37,7 @@ Currently working in my free time building a SaaS to Indie Games monetize games,
   </a> 
 
    <a href="https://www.hackerrank.com/profile/eliezergarcia_d1" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"  height="36px"  target="_blank" alt="Hacker Rank">
+      <img src="https://img.shields.io/badge/Hacker%20RANK-grey?style=for-the-badge"  height="36px"  target="_blank" alt="Hacker Rank">
   </a> 
 
   
