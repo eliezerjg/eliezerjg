@@ -45,7 +45,7 @@ Currently working in my free time building a SaaS to Indie Games monetize games,
 </div>
 
   
-  ## Have some experience with
+  ## Worked before with
   
  
 <div >  
