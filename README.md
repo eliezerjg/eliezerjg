@@ -23,7 +23,7 @@ Currently working in my free time building a SaaS to Indie Games monetize games,
   
 ## Follow or Contact me on
 <div id="socials">  
-   <a href="https://www.linkedin.com/in/eliezer-garcia" target="_blank">
+   <a href="https://www.linkedin.com/in/eliezer-jr-garcia" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"  height="36px" alt="Linkedin">
   </a> 
    
