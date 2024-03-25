@@ -6,6 +6,7 @@ So if you need to know something, feel free to ask in my <a href="#socials">Soci
 
 <p>♦️ Java, Spring and Jakarta EE</p>
 <p>♦️ Caching and Tuning</p>
+<p>♦️ Scalability Using DevSecOps</p>
 <p>♦️ Javascript, React JS, NextJS and Angular</p>
 <p>♦️ CSS Frameworks and UI Kits (Mantine UI, ShadcnUI)</p>
 <p>♦️ Complex Algorithms</p>
