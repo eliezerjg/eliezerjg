@@ -4,12 +4,12 @@ So if you need to know something, feel free to ask in my <a href="#socials">Soci
 
 ## Interests
 
-<p>* Java, Spring and Jakarta EE</p>
-<p>* Caching and Tuning</p>
-<p>* Javascript, React JS, NextJS and Angular</p>
-<p>* CSS Frameworks and UI Kits (Mantine UI, ShadcnUI)</p>
-<p>* Complex Algorithms</p>
-<p>* SQL Solutions</p>
+<p>♦️ Java, Spring and Jakarta EE</p>
+<p>♦️ Caching and Tuning</p>
+<p>♦️ Javascript, React JS, NextJS and Angular</p>
+<p>♦️ CSS Frameworks and UI Kits (Mantine UI, ShadcnUI)</p>
+<p>♦️ Complex Algorithms</p>
+<p>♦️ SQL Solutions</p>
 
 
 ## About
