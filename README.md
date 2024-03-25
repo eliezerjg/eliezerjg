@@ -8,7 +8,7 @@ Currently working Fulltime as Full Stack Enginner (Java Backend,Angular Web and 
 
 ## Interests
 
-<p>♦️ JVM (Java Core API's), Java 8 / 11 / 17 and 21, Spring and Jakarta EE</p>
+<p>♦️ JVM (Java Core), Java 8 / 11 / 17 and 21, Spring and Jakarta EE</p>
 <p>♦️ Caching and Tuning</p>
 <p>♦️ Scalability Using DevSecOps</p>
 <p>♦️ Javascript, React JS, NextJS and Angular</p>
