@@ -2,6 +2,15 @@
 Here you will found some of my personal projects, but that doesnt means this is reflect all my skills, most of projects that i'm currently working are closed source project,
 So if you need to know something, feel free to ask in my <a href="#socials">Socials</a>.
 
+## Interests
+
+<p>* Java, Spring and Jakarta EE</p>
+<p>* Caching and Tuning</p>
+<p>* Javascript, React JS, NextJS and Angular</p>
+<p>* CSS Frameworks and UI Kits (Mantine UI, ShadcnUI)</p>
+<p>* Complex Algorithms</p>
+<p>* SQL Solutions</p>
+
 
 ## About
 Currently working Fulltime as Full Stack Enginner (Java Backend,Angular Web and Flutter Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
