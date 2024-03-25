@@ -2,6 +2,10 @@
 Here you will found some of my personal projects, but that doesnt means this is reflect all my skills, most of projects that i'm currently working are closed source project,
 So if you need to know something, feel free to ask in my <a href="#socials">Socials</a>.
 
+## About
+Currently working Fulltime as Full Stack Enginner (Java Backend,Angular Web and Flutter Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
+
+
 ## Interests
 
 <p>♦️ Java, Spring and Jakarta EE</p>
@@ -13,8 +17,6 @@ So if you need to know something, feel free to ask in my <a href="#socials">Soci
 <p>♦️ SQL Solutions</p>
 
 
-## About
-Currently working Fulltime as Full Stack Enginner (Java Backend,Angular Web and Flutter Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
 
 ## Cool
 Currently working in my free time building a SaaS to Indie Games monetize games, landing page: <a href="https://gamecms.com.br/" target="_blank"> Go To GameCMS Website</a>.
