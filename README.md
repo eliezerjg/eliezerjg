@@ -18,9 +18,6 @@ Currently working Fulltime as Full Stack Enginner (Java Backend,Angular Web and 
 
 
 
-## Cool
-Currently working in my free time building a SaaS to Indie Games monetize games, landing page: <a href="https://gamecms.com.br/" target="_blank"> Go To GameCMS Website</a>.
-
 <BR>
 
 ## Dashboard (What i'm doing here on Github)
