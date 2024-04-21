@@ -1,5 +1,5 @@
 ## In First Place
-Coffee is good and i like it, if i helped you by some way, buy me a coffee:
+Coffee is good and i like it, if i helped you by some way,
 <a href="https://buymeacoffee.com/eliezerjg" target="_blank"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" /></a>
 
 
