@@ -4,7 +4,7 @@ Coffee is good and i like it, if i helped you by some way:<br/><br/>
 
 
 ## Welcome
-Here you will found some of my personal projects, but that doesnt means this is reflect all my skills, most of projects that i'm currently working are closed source project,
+Here you will found some of my personal projects, but that doesnt means this is reflect all my skills, most of projects that i'm currently working are closed source,
 So if you need to know something, feel free to ask in my <a href="#socials">Socials</a>.
 
 ## About
