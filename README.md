@@ -8,7 +8,6 @@ Here you will found some of my personal projects, but that doesnt means this is 
 So if you need to know something, feel free to ask in my <a href="#socials">Socials</a>.
 
 ## About
-![](https://komarev.com/ghpvc/?username=eliezerjg)
 Currently working Fulltime as Full Stack Enginner (Java Backend,Angular Web and Flutter Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
 
 
@@ -27,6 +26,10 @@ Currently working Fulltime as Full Stack Enginner (Java Backend,Angular Web and 
 <BR>
 
 ## Dashboard (What i'm doing here on Github)
+
+![](https://komarev.com/ghpvc/?username=eliezerjg)
+
+
 <div align="left">
       <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api?username=eliezerjg&rank_icon=github&theme=radical&hide_border=true"/>
       <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-streak-stats.herokuapp.com/?user=eliezerjg&theme=radical&hide_border=true"/>
