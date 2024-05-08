@@ -25,9 +25,7 @@ Currently working Fulltime as Full Stack Enginner (Java Backend,Angular Web and 
 
 <BR>
 
-## Dashboard (What i'm doing here on Github)
-
-![](https://komarev.com/ghpvc/?username=eliezerjg)
+## Dashboard (What i'm doing here on Github) ![](https://komarev.com/ghpvc/?username=eliezerjg)
 
 
 <div align="left">
