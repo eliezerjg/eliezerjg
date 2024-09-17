@@ -3,28 +3,6 @@ Coffee is good and i like it, if i helped you by some way:<br/><br/>
 <a href="https://buymeacoffee.com/eliezerjg" target="_blank"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" /></a>
 
 
-## Welcome
-Here you will found some of my personal projects, but that doesnt means this is reflect all my skills, most of projects that i'm currently working are closed source,
-So if you need to know something, feel free to ask in my <a href="#socials">Socials</a>.
-
-## About
-Currently working Fulltime as Full Stack Enginner (Java Backend,Angular Web and Flutter Mobile) Development, give a look at my <a href="https://eliezerjg.github.io/" target="_blank"> Portfolio</a>.
-
-
-## Interests
-
-<p>♦️ JVM (Java Core), Java 8 / 11 / 17 and 21, Spring and Jakarta EE</p>
-<p>♦️ Caching and Tuning</p>
-<p>♦️ Scalability Using DevSecOps</p>
-<p>♦️ Javascript, React JS, NextJS and Angular</p>
-<p>♦️ CSS Frameworks and UI Kits (Mantine UI, ShadcnUI)</p>
-<p>♦️ Complex Algorithms</p>
-<p>♦️ SQL Solutions</p>
-
-
-
-<BR>
-
 ## Dashboard (What i'm doing here on Github) ![](https://komarev.com/ghpvc/?username=eliezerjg)
 
 
