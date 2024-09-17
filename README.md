@@ -1,5 +1,5 @@
 ## In First Place
-If i helped you by some way, try &nbsp;&nbsp;
+If i helped you by some way, try &nbsp;
 <a href="https://buymeacoffee.com/eliezerjg" target="_blank"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" /></a>
 
 
