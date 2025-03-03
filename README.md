@@ -3,10 +3,6 @@ TRY &nbsp;
 <a href="https://buymeacoffee.com/eliezerjg" target="_blank"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" /></a>
 
 
-## Dashboard (What i'm doing here on Github) !
-
-<BR>
-
   
 ## Follow or Contact me on
 <div id="socials">  
