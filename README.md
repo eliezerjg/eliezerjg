@@ -12,7 +12,6 @@ TRY &nbsp;
 </div>
 
 <BR>
-<p align="right">PS: This stats only includes public projects.</p>
 
   
 ## Follow or Contact me on
