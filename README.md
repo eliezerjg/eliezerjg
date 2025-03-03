@@ -7,10 +7,10 @@ TRY &nbsp;
 
 
 <div align="left">
-      <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api?username=eliezerjg&rank_icon=github&theme=radical&hide_border=true"/>
-      <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-streak-stats.herokuapp.com/?user=eliezerjg&theme=radical&hide_border=true"/>
-       <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerjg&hide_progress=true&theme=radical&hide_border=true"/>
+      <img  style="width: 48% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api?username=eliezerjg&rank_icon=github&theme=radical&hide_border=true"/>
+      <img  style="width: 48% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerjg&hide_progress=true&theme=radical&hide_border=true"/>
 </div>
+
 <BR>
 <p align="right">PS: This stats only includes public projects.</p>
 
