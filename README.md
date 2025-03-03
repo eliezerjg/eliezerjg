@@ -3,13 +3,7 @@ TRY &nbsp;
 <a href="https://buymeacoffee.com/eliezerjg" target="_blank"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" /></a>
 
 
-## Dashboard (What i'm doing here on Github) ![](https://komarev.com/ghpvc/?username=eliezerjg)
-
-
-<div align="left">
-      <img  style="width: 48% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api?username=eliezerjg&rank_icon=github&theme=radical&hide_border=true"/>
-      <img  style="width: 48% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerjg&hide_progress=true&theme=radical&hide_border=true"/>
-</div>
+## Dashboard (What i'm doing here on Github) !
 
 <BR>
 
