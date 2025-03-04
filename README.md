@@ -48,6 +48,12 @@
 
 ## GitHub Stats
 
+<div>
+   <img src="https://github-readme-stats.vercel.app/api?username=eliezerjg&show_icons=true&theme=tokyonight&rank_icon=github" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerjg&layout=compact&theme=tokyonight" />
+</div>
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliezerjg&show_icons=true&theme=tokyonight&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerjg&layout=compact&theme=tokyonight)
