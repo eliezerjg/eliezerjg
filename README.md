@@ -1,6 +1,6 @@
 # Hi there, I'm Eliezer Garcia 👋
 
-#### 👉 Main Programing Languages Java / Typescript
+#### 👉 Java / Typescript
 
 ## If I helped you in some way, feel free to
 [![Buy Me a Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee&style=for-the-badge)](https://buymeacoffee.com/eliezerjg)
