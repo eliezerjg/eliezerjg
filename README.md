@@ -15,9 +15,6 @@
       <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"  height="36px"  target="_blank" alt="E-Mail">
   </a> 
 
-  <a href="https://discord.gg/NKUsjKS8Wh" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"  height="36px"  target="_blank" alt="Discord">
-  </a> 
 </div>
 
 ## Technologies I've Worked With
