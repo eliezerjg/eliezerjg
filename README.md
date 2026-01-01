@@ -16,14 +16,3 @@
   </a> 
 
 </div>
-
-
-
-## GitHub Stats
-
-<div>
-   <img src="https://github-readme-stats.vercel.app/api?username=eliezerjg&show_icons=true&include_all_commits=true&theme=tokyonight&rank_icon=github" width="400px" height="180px"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerjg&layout=compact&theme=tokyonight" width="400px" height="180">
-</div>
-
-
